@@ -23,7 +23,7 @@ class hero{
 let hero1 = new hero("guerreiro")
 let hero2 = new hero("mago")
 let hero3 = new hero("monge")
-let hero4 = new hero("nija")
+let hero4 = new hero("ninja")
 let hero5 = new hero("indefinido")
 
 // Invoca a função de ataque dos objetos criados
